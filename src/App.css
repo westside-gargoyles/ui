@@ -1,0 +1,27 @@
+.app {
+    margin: 0;
+}
+
+.app-form {
+    margin: 0 auto;
+    margin-top: 60px;
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+}
+
+.input-wrapper {
+  display: flex;
+  margin-top: 10px;
+}
+
+.image-uploader {
+  display: flex;
+  flex-direction: column;
+}
+
+.submit-input div input {
+  color: white !important;
+  background-color:#21ba45!important;
+}
+
