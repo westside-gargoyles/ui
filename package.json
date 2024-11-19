@@ -6,7 +6,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "firebase": "^7.10.0",
+    "firebase": "^10.9.0",
     "firestore-export-import": "^0.3.2",
     "ipfs-http-client": "^42.0.0",
     "ipfs-mini": "^1.1.5",
